@@ -1,0 +1,6 @@
+sources:
+  - name: gbiflakehouse
+    database: gbiflakehouse
+    schema: bronze
+    tables:
+      - name: gbif_full_table
